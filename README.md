@@ -19,3 +19,11 @@ Daarmee heb ik een interactive kaart gemaakt waarop de uitslagen getoond worden:
 Mijn open source projecten die ik daarvoor gebruikt heb:
 - https://gitlab.com/nl-h72/eml-hulpmiddelen: Een Java bibliotheek om EML bestanden mee in te lezen.
 - https://gitlab.com/nl-h72/eml-sql: Een Java applicatie die de gegevens van EML bestanden in een database zet.
+
+### Stemlokaaltoegankelijkheid
+
+Inzicht in welke toegankelijkheden van stemlokalen door gemeenten zijn aangeleverd aan https://waarismijnstemlokaal.nl
+Een overzicht per gemeente, landelijke en op de kaart, met extra filter mogelijkheden.
+Ook inzicht in data compatibiliteit tussen gegevens van stemlokalen zoals beschikbaar in de door de kiesraad gepubliceerde verkiezingsuitslagen en de gegevens op waarismijnstemlokaal.
+De webpagina is beschikbaar op: https://hilbrand.github.io/slt 
+De broncode is beschikbaar op: https://www.github.com/hilbrand/slt
