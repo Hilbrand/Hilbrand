@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-- 🔭 Ik ben een zzp software hoofdontwikkelaar/architect bij he [AERIUS](http://www.aerius.nl)/[UK APAS](https://jncc.gov.uk/our-work/uk-air-pollution-assessment-service/) project.
+- 🔭 Ik ben een zzp software hoofdontwikkelaar/architect bij het [AERIUS](http://www.aerius.nl)/[UK APAS](https://jncc.gov.uk/our-work/uk-air-pollution-assessment-service/) project.
 - 👀 Ik ben geintereseerd in open source, IOT, [openHAB](https://openhab.org), en open overheid.
 - 💡 Ik heb ook een aantal [openHAB addons](https://github.com/openhab/openhab-addons) ontwikkeld.
  
 Mijn recente open source projecten zijn:
 
-### Inzicht in inkomstenbeslasting en toeslagen
+### Inzicht in inkomstenbelasting en toeslagen
 
-Een interactieve grafiek die inzicht geeft in salaris, inkomstenbelasting en toeslagen, en wat het effect is van een salarisverhoging.
+Een interactieve grafiek die inzicht geeft in salaris, inkomstenbelasting en toeslagen, en wat het effect (marginale druk) is van een salarisverhoging.
 De interactive grafiek is te zien op: https://hilbrand.github.io/ib/.
 De broncode is beschikbaar op: https://github.com/Hilbrand/ib-broncode
 
@@ -22,7 +22,7 @@ Mijn open source projecten die ik daarvoor gebruikt heb:
 
 ### Stemlokaaltoegankelijkheid
 
-Inzicht in welke toegankelijkheden van stemlokalen door gemeenten zijn aangeleverd aan https://waarismijnstemlokaal.nl
+Inzicht in welke toegankelijkheden van stemlokalen door gemeenten zijn aangeleverd aan https://WaarIsMijnStemlokaal.nl
 Een overzicht per gemeente, landelijke en op de kaart, met extra filter mogelijkheden.
 Ook inzicht in data compatibiliteit tussen gegevens van stemlokalen zoals beschikbaar in de door de kiesraad gepubliceerde verkiezingsuitslagen en de gegevens op waarismijnstemlokaal.
 De webpagina is beschikbaar op: https://hilbrand.github.io/slt 
