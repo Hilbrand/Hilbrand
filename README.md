@@ -22,8 +22,7 @@ Mijn open source projecten die ik daarvoor gebruikt heb:
 
 ### Stemlokaaltoegankelijkheid
 
-Inzicht in welke toegankelijkheden van stemlokalen door gemeenten zijn aangeleverd aan https://WaarIsMijnStemlokaal.nl
-Een overzicht per gemeente, landelijke en op de kaart, met extra filter mogelijkheden.
-Ook inzicht in data compatibiliteit tussen gegevens van stemlokalen zoals beschikbaar in de door de kiesraad gepubliceerde verkiezingsuitslagen en de gegevens op waarismijnstemlokaal.
+Een dashboard voor inzicht in de toegankelijkheden van stemlokalen per gemeente, landelijke en op de kaart, met extra filter mogelijkheden.
+Dit dashboard gebruikt de gegevens van de website https://WaarIsMijnStemlokaal.nl.
 De webpagina is beschikbaar op: https://hilbrand.github.io/slt 
 De broncode is beschikbaar op: https://www.github.com/hilbrand/slt
